@@ -10,7 +10,7 @@ int main() {
     {
         scanf("%d",&p[i]);
         if(p[i]==2){
-            printf("%d",i=3);
+            printf("%d",i+3);
             break;
         }
     }
